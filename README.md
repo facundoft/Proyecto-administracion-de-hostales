@@ -1,5 +1,6 @@
 # Proyecto administracion de hostales
  C++
-#Compilacion
+ 
+# Compilacion
 - make
 - ./exec
